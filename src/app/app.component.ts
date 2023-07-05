@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'clase-03-47840';
+  numero = 30;
+  alumnos = ['mario', 'daniel', 'ana', 'luis', 'miranda'];
 }
